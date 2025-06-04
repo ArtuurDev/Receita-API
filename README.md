@@ -16,6 +16,7 @@ No terminal, execute:
 docker-compose up -d
 Esse comando iniciará os contêineres do projeto em segundo plano.
 - Rodar o projeto em modo desenvolvimento:
+- Digite o comando npx prisma generate
 Por fim, execute:
 npm run start:dev
 
